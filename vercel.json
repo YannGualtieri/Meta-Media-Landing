@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/quiz",
+      "destination": "/test-flusso-contatti",
+      "permanent": false
+    }
+  ]
+}
