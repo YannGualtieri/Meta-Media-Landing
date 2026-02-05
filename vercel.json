@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/quiz/:path*",
-      "destination": "https://v0-quiz-page-builder.vercel.app/:path*"
+      "source": "/test-flusso-contatti/:path*",
+      "destination": "https://v0-quiz-page-builder.vercel.app/test-flusso-contatti/:path*"
     }
   ]
 }
